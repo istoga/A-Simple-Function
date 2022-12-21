@@ -1,2 +1,2 @@
-# A-Simple-Function
+# A-Simple-JavaScript-Function
 JS Assignment with Reskill Americans
